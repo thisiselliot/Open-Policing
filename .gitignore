@@ -136,3 +136,7 @@ dmypy.json
 
 # Data directory
 data/
+
+# Full paper
+100M-stops.pdf
+
