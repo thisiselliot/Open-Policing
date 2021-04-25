@@ -140,4 +140,6 @@ data/
 # Full paper
 100M-stops.pdf
 
+# r
+.Rhistory
 .Rproj.user
