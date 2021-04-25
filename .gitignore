@@ -146,3 +146,6 @@ data/
 # r
 .Rhistory
 .Rproj.user
+
+# Census API key
+.census_api_key
