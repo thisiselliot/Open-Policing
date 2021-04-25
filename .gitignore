@@ -140,6 +140,9 @@ data/
 # Full paper
 100M-stops.pdf
 
+#Vim
+.gitignore.swp
+
 # r
 .Rhistory
 .Rproj.user
